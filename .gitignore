@@ -1,0 +1,7 @@
+# do not include backup files
+*.m~
+*.asv
+
+# do not include data files
+*.wav
+*.mat
